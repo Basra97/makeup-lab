@@ -36,3 +36,10 @@ Validate:
 ```
 terraform validate
 ```
+
+
+Web Server Output
+
+
+Database Server Output
+
