@@ -55,7 +55,7 @@ ansible-playbook -i hosts.ini playbook.yml
 
 
 Web Server Output
-![Description](./images/hello-from-web-proof.png)
+![Description](./hello-from-web-proof.png)
 
 Database Server Output
 ![Description](./images/hello-from-database-proof.png)
