@@ -1,7 +1,9 @@
-# Makeup Lab: Infrastructure as Code & Configuration Management
+# Makeup Lab
 
-## Overview
-This project provisions AWS infrastructure using Terraform and configures Web and Database servers using Ansible.
+Karnveer Basra
+Henry Wong
+Justin Kim
+
 
 ## Steps Used to Complete the Lab
 
