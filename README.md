@@ -58,5 +58,5 @@ Web Server Output
 ![Description](./hello-from-web-proof.png)
 
 Database Server Output
-![Description](./images/hello-from-database-proof.png)
+![Description](./hello-from-database-proof.png)
 ```
